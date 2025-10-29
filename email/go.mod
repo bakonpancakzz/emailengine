@@ -1,4 +1,4 @@
-module github.com/bakonpancakz/tools-email/email
+module github.com/bakonpancakz/emailengine/email
 
 go 1.24.2
 

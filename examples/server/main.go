@@ -13,7 +13,7 @@ import (
 
 	_ "embed"
 
-	"github.com/bakonpancakz/tools-email/email"
+	"github.com/bakonpancakz/emailengine/email"
 )
 
 var (

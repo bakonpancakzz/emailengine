@@ -1,10 +1,10 @@
-module github.com/bakonpancakz/tools-email/examples/server
+module github.com/bakonpancakz/emailengine/examples/server
 
 go 1.24.2
 
-replace github.com/bakonpancakz/tools-email/email => ../../email
+replace github.com/bakonpancakz/emailengine/email => ../../email
 
-require github.com/bakonpancakz/tools-email/email v0.0.0-00010101000000-000000000000
+require github.com/bakonpancakz/emailengine/email v0.0.0-00010101000000-000000000000
 
 require (
 	github.com/cention-sany/utf7 v0.0.0-20170124080048-26cad61bd60a // indirect
